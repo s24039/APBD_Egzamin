@@ -69,3 +69,8 @@ C:\Users\s24039\source\repos\WebApplication1\WebApplication1\obj\Debug\net7.0\re
 C:\Users\s24039\source\repos\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.pdb
 C:\Users\s24039\source\repos\WebApplication1\WebApplication1\obj\Debug\net7.0\WebApplication1.genruntimeconfig.cache
 C:\Users\s24039\source\repos\WebApplication1\WebApplication1\obj\Debug\net7.0\ref\WebApplication1.dll
+C:\Users\s24039\source\repos\WebApplication1\WebApplication1\bin\Debug\net7.0\Humanizer.dll
+C:\Users\s24039\source\repos\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\s24039\source\repos\WebApplication1\WebApplication1\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\s24039\source\repos\WebApplication1\WebApplication1\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\s24039\source\repos\WebApplication1\WebApplication1\bin\Debug\net7.0\System.CodeDom.dll
